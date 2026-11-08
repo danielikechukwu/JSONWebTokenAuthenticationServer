@@ -174,6 +174,5 @@ namespace JSONWebTokenAuthenticationServer.Controllers
             return Ok(new { message = "Profile updated successfully." });
         }
 
-
     }
 }
